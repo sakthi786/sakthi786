@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @**SAKTHI**
-- 👀 I’m a full stack Developer
+- 👀 I’m a Full Stack Developer
 - 🌱 I’m currently learning Spring Boot
 - 📫 Reach me in
 - https://www.linkedin.com/in/sakthi24/
